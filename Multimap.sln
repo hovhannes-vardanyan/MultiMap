@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multimap", "Multimap\Multimap.csproj", "{2CC6E5C6-77F5-4DC4-9E84-527B38EEFB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC6E5C6-77F5-4DC4-9E84-527B38EEFB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC6E5C6-77F5-4DC4-9E84-527B38EEFB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC6E5C6-77F5-4DC4-9E84-527B38EEFB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC6E5C6-77F5-4DC4-9E84-527B38EEFB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8BC6B3-58A9-4090-B820-E7866F3D5125}
+	EndGlobalSection
+EndGlobal

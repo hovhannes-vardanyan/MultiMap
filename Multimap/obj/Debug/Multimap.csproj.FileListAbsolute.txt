@@ -1,0 +1,6 @@
+C:\Users\Hovhannes\source\repos\Multimap\Multimap\bin\Debug\Multimap.exe.config
+C:\Users\Hovhannes\source\repos\Multimap\Multimap\bin\Debug\Multimap.exe
+C:\Users\Hovhannes\source\repos\Multimap\Multimap\bin\Debug\Multimap.pdb
+C:\Users\Hovhannes\source\repos\Multimap\Multimap\obj\Debug\Multimap.csprojAssemblyReference.cache
+C:\Users\Hovhannes\source\repos\Multimap\Multimap\obj\Debug\Multimap.exe
+C:\Users\Hovhannes\source\repos\Multimap\Multimap\obj\Debug\Multimap.pdb
